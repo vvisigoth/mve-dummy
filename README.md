@@ -8,11 +8,9 @@ Inside find
 - A hall log for importing a part of /urbit-meta
 
 To import collections
-- `cp -r fora/* <pier>/home/collections`
-- `cp -r blog/* <pier>/home/collections`
+- `cp -r fora/* <pier>/home/web/collections`
+- `cp -r blog/* <pier>/home/web/collections`
 
 To import talk:
 - Copy the file into your pier: `cp dummy-inbox.hall-telegrams <pier>/home/web`
 - In the dojo, run: `:hall|load /===/web/inbox/hall-telegrams`
-
-
