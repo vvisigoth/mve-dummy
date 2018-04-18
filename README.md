@@ -1,7 +1,5 @@
 # MVE Dummy Data
 
-*Note: still porting comments*
-
 Inside find
 - A selection of posts from Fora, along with config
 - A selection of Blog posts, along with config
